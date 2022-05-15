@@ -1,0 +1,11 @@
+img {
+    width:  500px;
+}
+
+body {
+    background-color: #EFEFEF !important;
+}
+
+.pointer {
+    cursor: pointer;
+}
